@@ -1,9 +1,9 @@
 This is a personal project, purely for aesthetic / react training. The full project is quite simple, and involves only a few steps. 
 Overall, the project will:
 #
-A)  Scrape data from a pokemon website or an API
-B)  Update a database to include said data
-C)  Render that data as simply as possible using React methods
+A)  Scrape data from a pokemon website or an API.
+B)  Update a database to include said data.
+C)  Render that data as simply as possible using React methods.
 
 
 # Getting Started with Create React App
