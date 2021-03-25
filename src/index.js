@@ -3,7 +3,8 @@ import ReactDOM from 'react-dom';
 import "./tailwind.output.css";
 
 import PokeCards from "./Components/PokeCard"
-import WorkCation from "./Components/WorkCation"
+import PokeList from "./Components/PokeList"
+// import WorkCation from "./Components/WorkCation"
 
 let colorPicker = (type) => {
   switch (type) {
@@ -52,7 +53,8 @@ const Pokemon = [
 
 
 const App = () => (
-  <div>
+  <div className="bg-purple-600 h-screen">
+    <PokeList></PokeList>
     {/* <WorkCation></WorkCation> */}
     {/* Below we use .map to render each PokeCard. Each PokeCard has several props that are passed to it. */}
       {Pokemon.map((mon, i) => (
@@ -67,6 +69,8 @@ const App = () => (
       ))}
   </div>
 );
+
+
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
