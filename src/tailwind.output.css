@@ -636,8 +636,6 @@ video {
   font-weight: 600
 }
 
-;
-
 .btn:hover {
   --bg-opacity: 1;
   background-color: #7f9cf5;
