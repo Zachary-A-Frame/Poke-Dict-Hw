@@ -3,7 +3,7 @@ import React from 'react'
 const PokeCards = (props) => {
      return (
        <div className="mb-6 w-full px-4 lg:w-1/2 xl:w-1/3" >
-         <div className={`flex items-center rounded-lg shadow-lg overflow-hidden ${props.color}`} href={props.pokeLink}>
+         <a className={`flex items-center rounded-lg shadow-lg overflow-hidden ${props.color}`} href={props.pokeLink}>
            <img
              className="h-32 w-32 flex-shrink-0"
              src={props.picture}
@@ -26,7 +26,7 @@ const PokeCards = (props) => {
                </a>
              </div>
            </div>
-         </div>
+         </a>
        </div>
      );
 }

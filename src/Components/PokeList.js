@@ -3,7 +3,6 @@ import React from "react";
 import axios from "axios";
 import PokeCards from "./PokeCard"
 
-// let pokeDict = []
 const url = "https://www.pokemon.com/us/pokedex/";
 
 export default class PokeList extends React.Component {
@@ -83,12 +82,12 @@ export default class PokeList extends React.Component {
                          {this.state.pokemon.map(mon => (
                               <PokeCards
                                    name={mon.name}
-                                   pokeLink={mon.pokedexLink}
                                    picture={mon.picture}
                                    // evolution={"Evolves: " + mon.evolution}
                                    type={mon.type}
                                    entryNum={mon.entryNum}
                                    color={mon.color}
+                                   pokeLink={url + mon.name}
                               ></PokeCards>
                          ))}
                     </div>
