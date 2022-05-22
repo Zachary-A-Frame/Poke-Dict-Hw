@@ -1,3 +1,5 @@
+// This is not used within this project, but was part of the original learning process in discovering how Tailwind worked. I'm leaving this here for posterity; this code is not used in any part of this application.
+
 import React from "react";
 
 
