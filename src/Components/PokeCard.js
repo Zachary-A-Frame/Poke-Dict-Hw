@@ -2,7 +2,7 @@ import React from 'react'
 
 const PokeCards = (props) => {
      return (
-       <div className="mb-6 w-full px-4 lg:w-1/2 xl:w-1/3" >
+       <div className="mb-6 w-full px-4 lg:w-1/2 xl:w-1/3 float-left pt-6" >
          <a className={`flex items-center rounded-lg shadow-lg overflow-hidden ${props.color}`} href={props.pokeLink}>
            <img
              className="h-32 w-32 flex-shrink-0"

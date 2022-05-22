@@ -1,3 +1,5 @@
+# Just view the site at https://zachary-a-frame.github.io/Poke-Dict-Hw/
+
 This was a personal project, purely for aesthetic / react training. The full project would be quite simple, and involves only a few steps.
 Overall, the project will:
 #
