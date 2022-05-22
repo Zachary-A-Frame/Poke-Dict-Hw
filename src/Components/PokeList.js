@@ -78,7 +78,7 @@ export default class PokeList extends React.Component {
                )
           } else {
                return (
-                    <div className="min-h-screen bg-gradient-to-b from-purple-600 to-green-500">
+                    <div>
                          {this.state.pokemon.map(mon => (
                               <PokeCards
                                    name={mon.name}

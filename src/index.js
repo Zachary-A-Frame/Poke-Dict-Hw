@@ -5,7 +5,7 @@ import "./tailwind.output.css";
 import PokeList from "./Components/PokeList"
 
 const App = () => (
-    <PokeList />
+    <PokeList  />
 );
 
 ReactDOM.render(<App />, document.querySelector('#root'));
