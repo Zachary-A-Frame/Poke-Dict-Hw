@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Poke-Dict-Hw/static/css/main.7109a74c.chunk.css",
-    "main.js": "/Poke-Dict-Hw/static/js/main.ab152d89.chunk.js",
-    "main.js.map": "/Poke-Dict-Hw/static/js/main.ab152d89.chunk.js.map",
+    "main.css": "/Poke-Dict-Hw/static/css/main.7041f93d.chunk.css",
+    "main.js": "/Poke-Dict-Hw/static/js/main.aa2738d6.chunk.js",
+    "main.js.map": "/Poke-Dict-Hw/static/js/main.aa2738d6.chunk.js.map",
     "runtime-main.js": "/Poke-Dict-Hw/static/js/runtime-main.03ce4f69.js",
     "runtime-main.js.map": "/Poke-Dict-Hw/static/js/runtime-main.03ce4f69.js.map",
     "static/js/2.3b3e07be.chunk.js": "/Poke-Dict-Hw/static/js/2.3b3e07be.chunk.js",
     "static/js/2.3b3e07be.chunk.js.map": "/Poke-Dict-Hw/static/js/2.3b3e07be.chunk.js.map",
     "index.html": "/Poke-Dict-Hw/index.html",
-    "static/css/main.7109a74c.chunk.css.map": "/Poke-Dict-Hw/static/css/main.7109a74c.chunk.css.map",
+    "static/css/main.7041f93d.chunk.css.map": "/Poke-Dict-Hw/static/css/main.7041f93d.chunk.css.map",
     "static/js/2.3b3e07be.chunk.js.LICENSE.txt": "/Poke-Dict-Hw/static/js/2.3b3e07be.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.03ce4f69.js",
     "static/js/2.3b3e07be.chunk.js",
-    "static/css/main.7109a74c.chunk.css",
-    "static/js/main.ab152d89.chunk.js"
+    "static/css/main.7041f93d.chunk.css",
+    "static/js/main.aa2738d6.chunk.js"
   ]
 }
