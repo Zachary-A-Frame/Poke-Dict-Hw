@@ -10,7 +10,7 @@ C)  Render that data as simply as possible using React methods.
 In its current iteration it is merely a concept. It currently renders several hard-coded cards. Clone the repo, do a yarn install, and a yarn run to start.
 
 # This has been converted to a school project, after it was discovered to be very similar to an assignment.
-![Pokedex - React Tailwind!](https://github.com/Zachary-A-Frame/Poke-Dict/blob/main/Pokedex.jpg?raw=true)
+![Pokedex - React Tailwind!](https://github.com/Zachary-A-Frame/Poke-Dict/blob/main/Pokedex.png?raw=true)
 ## Available Scripts
 
 In the project directory, you can run:
